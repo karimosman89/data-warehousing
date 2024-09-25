@@ -47,7 +47,8 @@ This project focuses on creating a simple data warehouse using SQLite. It includ
 
 3. Query the data:
 
-      python src/query_data.py
+
+       python src/query_data.py
 
 
 ## Testing
